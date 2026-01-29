@@ -32,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0021-merge-two-sorted-lists) |
+## Hash Table
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0205-isomorphic-strings) |
+## String
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
