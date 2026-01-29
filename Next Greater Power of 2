@@ -1,0 +1,60 @@
+Q.4. Next Greater Power of 2
+
+Description :
+
+Question:
+Given a number N, find its next immediate greater power of 2(i.e 2^1, 2^2, 2^3...).
+
+
+Input Description:
+The input consists of a number N where N <= 1000.
+
+
+Sample Input:
+4
+
+
+Sample Output:
+8
+
+=> Code Solution :-
+-> Approach 1 :
+import java.util.Scanner;
+public class Main {
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+        int N = input.nextInt();
+        int multiple = 2;
+        for(int i = 1; i <= 1000; i++){
+            int Result = N * multiple;
+            System.out.println(Result);
+            break;
+        }
+        input.close();
+    }
+}
+
+-> Approach 2 :
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+        
+        if (input.hasNextInt()) {
+            int N = input.nextInt();
+            int power = 2; // Start with the first relevant power of 2
+
+            // While the current power is less than or equal to N, 
+            // keep moving to the next power
+            while (power <= N) {
+                power = power * 2;
+            }
+
+            System.out.println(power);
+        }
+        
+        input.close();
+    }
+}
+

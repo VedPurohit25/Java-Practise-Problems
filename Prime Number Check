@@ -1,0 +1,61 @@
+Q.2. Prime Number Check
+
+> Description;
+
+--Problem Statement:
+Given a number N, check whether it is prime or not. Print 'yes' if it is prime else print 'no'.
+
+
+--Input Description:
+The input consists of a single integer N.
+
+
+--Output Description:
+The output is 'yes' if N is prime, otherwise 'no'.
+
+
+--Sample Input:
+123
+
+
+--Sample Output:
+no
+
+=> Code Solution :
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+        
+        
+        int N = input.nextInt();
+        
+        if (N <= 1) {
+            System.out.println("no");
+            return; 
+        }
+
+        boolean isPrime = true; // Use a flag to track if it's prime
+        
+        for (int i = 2; i <= (int) Math.sqrt(N); i++) {
+            if (N % i == 0) {
+                isPrime = false; // It found a factor!
+                break;           // Exit the loop immediately
+            }
+        }
+
+        if (isPrime) {
+            System.out.println("yes");
+        } else {
+            System.out.println("no");
+        }
+        
+        input.close();
+    }
+}
+
+Output :
+Correct 
+case 1 
+case 2
