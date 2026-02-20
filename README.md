@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0075-sort-colors) |
 | [0704-binary-search](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0704-binary-search](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0704-binary-search) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Linked List
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1051-height-checker](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1122-relative-sort-array) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
