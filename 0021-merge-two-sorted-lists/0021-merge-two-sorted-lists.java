@@ -1,20 +1,43 @@
 class Solution {
-    public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
-        // Base Cases
-        if (list1 == null) return list2;
-        if (list2 == null) return list1;
+    public ListNode sortList(ListNode head) {
+        if (head == null || head.next == null) return head;
 
-        // Recursive Step
-        if (list1.val <= list2.val) {
-            // list1 is smaller, so it's the head. 
-            // We find its 'next' by recursing with the rest of list1.
-            list1.next = mergeTwoLists(list1.next, list2);
-            return list1;
-        } else {
-            // list2 is smaller, so it's the head.
-            // We find its 'next' by recursing with the rest of list2.
-            list2.next = mergeTwoLists(list1, list2.next);
-            return list2;
+        // 1. Split
+        ListNode prev = null, slow = head, fast = head;
+        while (fast != null && fast.next != null) {
+            prev = slow;
+            slow = slow.next;
+            fast = fast.next.next;
         }
+        prev.next = null;
+
+        // 2. Sort
+        ListNode leftSide = sortList(head);
+        ListNode rightSide = sortList(slow);
+
+        // 3. Merge (Renamed to match the Driver's expectation)
+        return mergeTwoLists(leftSide, rightSide);
+    }
+
+    // Change 'merge' to 'mergeTwoLists' here
+    public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
+        ListNode dummy = new ListNode(0);
+        ListNode current = dummy;
+
+        while (l1 != null && l2 != null) {
+            if (l1.val < l2.val) {
+                current.next = l1;
+                l1 = l1.next;
+            } else {
+                current.next = l2;
+                l2 = l2.next;
+            }
+            current = current.next;
+        }
+        
+        if (l1 != null) current.next = l1;
+        if (l2 != null) current.next = l2;
+
+        return dummy.next;
     }
 }
