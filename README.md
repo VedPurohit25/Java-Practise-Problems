@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0075-sort-colors) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0148-sort-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0021-merge-two-sorted-lists) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0206-reverse-linked-list) |
