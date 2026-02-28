@@ -1,12 +1,21 @@
-public class Solution {
-    public int firstUniqChar(String s) {
-        int value [] = new int[26];
+import java.util.*;
 
-        for(int i = 0 ; i < s.length() ; i++)
-             value [ s.charAt(i) - 'a']++;
-             for(int i = 0 ; i < s.length() ; i++)
-             if(value[s.charAt(i) - 'a']==1)
-               return i;
-               return -1;
+class Solution {
+    public int firstUniqChar(String s) {
+        int[] count = new int[26];
+        Queue<Integer> queue = new LinkedList<>();
+        
+        for (int i = 0; i < s.length(); i++) {
+            char c = s.charAt(i);
+            count[c - 'a']++;
+            queue.add(i);
+            
+            // Remove characters from the front that are no longer unique
+            while (!queue.isEmpty() && count[s.charAt(queue.peek()) - 'a'] > 1) {
+                queue.poll();
+            }
+        }
+        
+        return queue.isEmpty() ? -1 : queue.peek();
     }
 }
