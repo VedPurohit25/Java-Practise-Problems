@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0387-first-unique-character-in-a-string) |
@@ -125,5 +126,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
