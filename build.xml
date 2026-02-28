@@ -1,0 +1,6 @@
+<project name="Java-Practise-Problems" default="compile">
+    <target name="compile">
+        <mkdir dir="bin"/>
+        <javac srcdir="src" destdir="bin" includeantruntime="false"/>
+    </target>
+</project>
