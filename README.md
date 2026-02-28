@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0075-sort-colors) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0347-top-k-frequent-elements](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0002-add-two-numbers) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Counting Sort
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0155-min-stack) |
 ## Design
 |  |
