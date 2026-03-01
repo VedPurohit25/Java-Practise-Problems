@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1122-relative-sort-array](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1122-relative-sort-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 ## String
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0155-min-stack) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
