@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0075-sort-colors) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0169-majority-element) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0205-isomorphic-strings) |
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0071-simplify-path) |
 | [0205-isomorphic-strings](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0242-valid-anagram) |
