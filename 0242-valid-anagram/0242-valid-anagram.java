@@ -1,23 +1,23 @@
+import java.util.HashMap;
+import java.util.Map;
+
 class Solution {
     public boolean isAnagram(String s, String t) {
-        // Step 1: Anagrams must have the same length
-        if (s.length() != t.length()) {
-            return false;
+        if (s.length() != t.length()) return false;
+
+        Map<Character, Integer> counts = new HashMap<>();
+
+        // Build the frequency map using string s
+        for (char c : s.toCharArray()) {
+            counts.put(c, counts.getOrDefault(c, 0) + 1);
         }
 
-        int[] alphabet = new int[26];
-
-        // Step 2 & 3: Tally up s and tally down t
-        for (int i = 0; i < s.length(); i++) {
-            alphabet[s.charAt(i) - 'a']++;
-            alphabet[t.charAt(i) - 'a']--;
-        }
-
-        // Step 4: If all counts are zero, it's a perfect match
-        for (int count : alphabet) {
-            if (count != 0) {
+        // Subtract frequencies using string t
+        for (char c : t.toCharArray()) {
+            if (!counts.containsKey(c) || counts.get(c) == 0) {
                 return false;
             }
+            counts.put(c, counts.get(c) - 1);
         }
 
         return true;
