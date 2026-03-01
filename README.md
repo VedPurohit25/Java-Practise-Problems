@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1051-height-checker](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1122-relative-sort-array) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1122-relative-sort-array](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1122-relative-sort-array) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 ## String
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Math
 |  |
 | ------- |
