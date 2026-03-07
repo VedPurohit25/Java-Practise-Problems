@@ -13,39 +13,28 @@
  *     }
  * }
  */
-import java.util.Stack;
-
-
 class Solution {
     public int kthSmallest(TreeNode root, int k) {
-        // We use a Stack to simulate the recursion of an Inorder Traversal
         Stack<TreeNode> stack = new Stack<>();
         TreeNode curr = root;
         int count = 0;
 
-        // The loop continues until we've visited all nodes or found our 'k'
         while (curr != null || !stack.isEmpty()) {
-            // 1. Reach the leftmost node of the current subtree
+            // Traverse to the leftmost node
             while (curr != null) {
                 stack.push(curr);
                 curr = curr.left;
             }
 
-            // 2. Process the node (this is the 'Inorder' part)
             curr = stack.pop();
             count++;
 
-            // 3. Check if this is the k-th smallest value
-            if (count == k) {
-                return curr.val; // Success: Return the integer value
-            }
+            // If we've reached the kth element, we're done
+            if (count == k) return curr.val;
 
-            // 4. Move to the right subtree to continue the sorted sequence
+            // Move to the right subtree
             curr = curr.right;
         }
-
-        // According to constraints, 1 <= k <= n, so we should always find a value.
-        // We return a sentinel value just in case of unexpected input.
-        return -1; 
+        return -1; // Should not reach here given constraints
     }
 }
