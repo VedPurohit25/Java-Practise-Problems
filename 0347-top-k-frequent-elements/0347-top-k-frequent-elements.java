@@ -2,30 +2,34 @@ import java.util.*;
 
 class Solution {
     public int[] topKFrequent(int[] nums, int k) {
-        // 1. Build frequency map
-        Map<Integer, Integer> count = new HashMap<>();
+        // 1. Build frequency map - O(N)
+        Map<Integer, Integer> map = new HashMap<>();
         for (int n : nums) {
-            count.put(n, count.getOrDefault(n, 0) + 1);
+            map.put(n, map.getOrDefault(n, 0) + 1);
         }
 
-        // 2. Keep k top elements in a Min Heap
-        // We use a lambda to compare the frequencies in the map
-        PriorityQueue<Integer> heap = new PriorityQueue<>(
-            (n1, n2) -> count.get(n1) - count.get(n2)
-        );
+        // 2. Create buckets where index = frequency - O(N)
+        // Max frequency is nums.length
+        List<Integer>[] bucket = new List[nums.length + 1];
+        for (int key : map.keySet()) {
+            int frequency = map.get(key);
+            if (bucket[frequency] == null) {
+                bucket[frequency] = new ArrayList<>();
+            }
+            bucket[frequency].add(key);
+        }
 
-        for (int n : count.keySet()) {
-            heap.add(n);
-            if (heap.size() > k) {
-                heap.poll(); // Remove the element with the lowest frequency
+        // 3. Collect the top k elements - O(N)
+        int[] result = new int[k];
+        int counter = 0;
+        for (int pos = bucket.length - 1; pos >= 0 && counter < k; pos--) {
+            if (bucket[pos] != null) {
+                for (int num : bucket[pos]) {
+                    result[counter++] = num;
+                    if (counter == k) break;
+                }
             }
         }
-
-        // 3. Build the output array
-        int[] top = new int[k];
-        for (int i = k - 1; i >= 0; --i) {
-            top[i] = heap.poll();
-        }
-        return top;
+        return result;
     }
 }
