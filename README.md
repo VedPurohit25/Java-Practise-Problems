@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0560-subarray-sum-equals-k](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0373-find-k-pairs-with-smallest-sums) |
 ## Bucket Sort
 |  |
 | ------- |
