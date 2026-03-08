@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0148-sort-list) |
+| [0295-find-median-from-data-stream](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0977-squares-of-a-sorted-array](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1051-height-checker) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0155-min-stack) |
+| [0295-find-median-from-data-stream](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0295-find-median-from-data-stream) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -215,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
