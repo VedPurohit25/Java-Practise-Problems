@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0207-course-schedule) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Search Tree
 |  |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0207-course-schedule) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -279,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0435-non-overlapping-intervals) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
