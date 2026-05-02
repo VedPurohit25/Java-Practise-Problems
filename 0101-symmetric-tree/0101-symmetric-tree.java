@@ -13,22 +13,39 @@
  *     }
  * }
  */
+import java.util.LinkedList;
+import java.util.Queue;
+
 class Solution {
     public boolean isSymmetric(TreeNode root) {
         if (root == null) return true;
-        // Compare the root's left and right subtrees
-        return isMirror(root.left, root.right);
-    }
 
-    private boolean isMirror(TreeNode t1, TreeNode t2) {
-        // If both reach the end simultaneously, it's a match
-        if (t1 == null && t2 == null) return true;
-        
-        // If one is null or values don't match, symmetry is broken
-        if (t1 == null || t2 == null) return false;
-        if (t1.val != t2.val) return false;
+        // Use a queue to store pairs of nodes to be compared
+        Queue<TreeNode> queue = new LinkedList<>();
+        queue.add(root.left);
+        queue.add(root.right);
 
-        // Recursively check outside pairs and inside pairs
-        return isMirror(t1.left, t2.right) && isMirror(t1.right, t2.left);
+        while (!queue.isEmpty()) {
+            TreeNode t1 = queue.poll();
+            TreeNode t2 = queue.poll();
+
+            // If both are null, this pair is symmetric; move to the next
+            if (t1 == null && t2 == null) continue;
+            
+            // If one is null or values don't match, it's not symmetric
+            if (t1 == null || t2 == null) return false;
+            if (t1.val != t2.val) return false;
+
+            // Add children in mirror order:
+            // 1. Outer nodes: t1.left and t2.right
+            queue.add(t1.left);
+            queue.add(t2.right);
+            
+            // 2. Inner nodes: t1.right and t2.left
+            queue.add(t1.right);
+            queue.add(t2.left);
+        }
+
+        return true;
     }
 }
