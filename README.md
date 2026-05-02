@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0071-simplify-path) |
@@ -338,4 +340,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/2427-number-of-common-factors) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
