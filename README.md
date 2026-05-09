@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0056-merge-intervals) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0396-rotate-function](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0788-rotated-digits) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0200-number-of-islands) |
