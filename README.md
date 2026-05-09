@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0206-reverse-linked-list) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0071-simplify-path) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0010-regular-expression-matching) |
 | [0045-jump-game-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0435-non-overlapping-intervals) |
