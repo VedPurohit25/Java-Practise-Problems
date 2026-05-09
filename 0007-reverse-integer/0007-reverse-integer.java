@@ -1,22 +1,22 @@
 class Solution {
     public int reverse(int x) {
-        int rev = 0;
+        int result = 0;
+        
         while (x != 0) {
-            int pop = x % 10;
-            x /= 10;
-
-            // Check for potential positive overflow
-            // 2147483647 is the max. If rev > 214748364, next * 10 will overflow.
-            // If rev == 214748364, and pop > 7, it will overflow.
-            if (rev > Integer.MAX_VALUE/10 || (rev == Integer.MAX_VALUE / 10 && pop > 7)) return 0;
+            int tail = x % 10;
+            int newResult = result * 10 + tail;
             
-            // Check for potential negative overflow
-            // -2147483648 is the min. If rev < -214748364, next * 10 will overflow.
-            // If rev == -214748364, and pop < -8, it will overflow.
-            if (rev < Integer.MIN_VALUE/10 || (rev == Integer.MIN_VALUE / 10 && pop < -8)) return 0;
+            // The "Identity Check": 
+            // If (newResult - tail) / 10 doesn't equal our previous result,
+            // an overflow MUST have occurred during the multiplication/addition.
+            if ((newResult - tail) / 10 != result) {
+                return 0;
+            }
             
-            rev = rev * 10 + pop;
+            result = newResult;
+            x = x / 10;
         }
-        return rev;
+        
+        return result;
     }
 }
