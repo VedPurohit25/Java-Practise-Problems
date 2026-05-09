@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0396-rotate-function](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0396-rotate-function) |
+| [0788-rotated-digits](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0788-rotated-digits) |
 | [2427-number-of-common-factors](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/2427-number-of-common-factors) |
 ## Counting Sort
 |  |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0055-jump-game) |
 | [0396-rotate-function](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0396-rotate-function) |
 | [0435-non-overlapping-intervals](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0435-non-overlapping-intervals) |
+| [0788-rotated-digits](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0788-rotated-digits) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 ## Greedy
 |  |
