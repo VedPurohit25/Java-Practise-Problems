@@ -5,43 +5,56 @@ class Solution {
         List<List<Integer>> quadruplets = new ArrayList<>();
         int n = nums.length;
         
-        // Edge case: A quadruplet requires at least 4 distinct elements
         if (n < 4) return quadruplets;
         
-        // Step 1: Sort the array to gain directional pointer control
+        // Step 1: Sort the array
         Arrays.sort(nums);
         
-        // Step 2: Fix the first anchor pillar
+        // Step 2: First Anchor Loop
         for (int i = 0; i < n - 3; i++) {
-            // Avoid duplicate configurations at the first level
             if (i > 0 && nums[i] == nums[i - 1]) continue;
             
-            // Step 3: Fix the second anchor pillar
+            // --- PRUNING LAYER 1 ---
+            // If the 4 smallest elements are larger than target, no solution possible from here
+            long min1 = (long) nums[i] + nums[i + 1] + nums[i + 2] + nums[i + 3];
+            if (min1 > target) break; 
+            
+            // If the current element plus the 3 largest elements can't reach target, skip this i
+            long max1 = (long) nums[i] + nums[n - 1] + nums[n - 2] + nums[n - 3];
+            if (max1 < target) continue;
+            
+            // Step 3: Second Anchor Loop
             for (int j = i + 1; j < n - 2; j++) {
-                // Avoid duplicate configurations at the second level
                 if (j > i + 1 && nums[j] == nums[j - 1]) continue;
                 
+                // --- PRUNING LAYER 2 ---
+                // If the current combination plus the 2 smallest remaining elements exceeds target
+                long min2 = (long) nums[i] + nums[j] + nums[j + 1] + nums[j + 2];
+                if (min2 > target) break;
+                
+                // If the current combination plus the 2 largest elements can't reach target
+                long max2 = (long) nums[i] + nums[j] + nums[n - 1] + nums[n - 2];
+                if (max2 < target) continue;
+                
+                // Step 4: Two-Pointer Window Sweep
                 int left = j + 1;
                 int right = n - 1;
                 
-                // Step 4: Use a two-pointer window to sweep the remaining space
                 while (left < right) {
-                    // Cast to long to prevent 32-bit integer overflow
-                    long sum = (long)nums[i] + nums[j] + nums[left] + nums[right];
+                    long sum = (long) nums[i] + nums[j] + nums[left] + nums[right];
                     
                     if (sum == target) {
                         quadruplets.add(Arrays.asList(nums[i], nums[j], nums[left], nums[right]));
                         
-                        // Prune duplicate values for both moving pointers
                         while (left < right && nums[left] == nums[left + 1]) left++;
                         while (left < right && nums[right] == nums[right - 1]) right--;
                         
                         left++;
                         right--;
                     } else if (sum < target) {
-                        left++; // Move to a larger structural value
+                        left++;
                     } else {
-                        right--; // Move to a smaller structural value
+                        right--;
                     }
                 }
             }
