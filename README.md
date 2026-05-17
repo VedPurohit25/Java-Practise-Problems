@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1051-height-checker](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1122-relative-sort-array) |
+| [1306-jump-game-iii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1306-jump-game-iii) |
 | [1861-rotating-the-box](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1914-cyclically-rotating-a-grid) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0399-evaluate-division) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0543-diameter-of-binary-tree) |
+| [1306-jump-game-iii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1306-jump-game-iii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0399-evaluate-division) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [1306-jump-game-iii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1306-jump-game-iii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Binary Search Tree
 |  |
