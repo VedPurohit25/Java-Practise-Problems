@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0049-group-anagrams) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0130-surrounded-regions) |
@@ -467,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0037-sudoku-solver) |
 ## Bit Manipulation
 |  |
 | ------- |
