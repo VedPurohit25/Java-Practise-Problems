@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0049-group-anagrams) |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0039-combination-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
