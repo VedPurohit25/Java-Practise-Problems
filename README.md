@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0058-length-of-last-word) |
+| [0065-valid-number](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0065-valid-number) |
 | [0071-simplify-path](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0071-simplify-path) |
 | [0205-isomorphic-strings](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0242-valid-anagram) |
