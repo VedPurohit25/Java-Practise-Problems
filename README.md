@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0071-simplify-path) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0396-rotate-function](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0396-rotate-function) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0043-multiply-strings) |
 | [1914-cyclically-rotating-a-grid](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1914-cyclically-rotating-a-grid) |
 ## String Matching
 |  |
