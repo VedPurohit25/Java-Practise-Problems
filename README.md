@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1122-relative-sort-array) |
 | [1306-jump-game-iii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1306-jump-game-iii) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1861-rotating-the-box](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1914-cyclically-rotating-a-grid) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1122-relative-sort-array) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 ## Binary Search
 |  |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0435-non-overlapping-intervals) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 ## Topological Sort
 |  |
