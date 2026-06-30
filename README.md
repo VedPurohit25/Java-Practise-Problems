@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1122-relative-sort-array](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1122-relative-sort-array) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0399-evaluate-division](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0399-evaluate-division) |
 | [0796-rotate-string](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0796-rotate-string) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Queue
 |  |
 | ------- |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Simulation
 |  |
 | ------- |
