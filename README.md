@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0072-edit-distance) |
 | [0205-isomorphic-strings](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0383-ransom-note) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0072-edit-distance) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0396-rotate-function](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0396-rotate-function) |
 | [0435-non-overlapping-intervals](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0435-non-overlapping-intervals) |
