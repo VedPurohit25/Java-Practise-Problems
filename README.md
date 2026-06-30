@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0071-simplify-path) |
 | [0205-isomorphic-strings](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0242-valid-anagram) |
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0068-text-justification) |
 | [1914-cyclically-rotating-a-grid](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1914-cyclically-rotating-a-grid) |
 ## String Matching
 |  |
