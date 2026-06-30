@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -543,11 +544,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0078-subsets) |
 ## Monotonic Stack
 |  |
 | ------- |
