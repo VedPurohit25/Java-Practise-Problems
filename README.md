@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0396-rotate-function](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0788-rotated-digits) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0396-rotate-function](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0396-rotate-function) |
 | [0435-non-overlapping-intervals](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0435-non-overlapping-intervals) |
@@ -545,4 +547,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0062-unique-paths) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
