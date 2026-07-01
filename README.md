@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0396-rotate-function](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0788-rotated-digits) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0101-symmetric-tree](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0101-symmetric-tree](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -461,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -506,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0396-rotate-function](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0396-rotate-function) |
 | [0435-non-overlapping-intervals](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0435-non-overlapping-intervals) |
