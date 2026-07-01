@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0091-decode-ways) |
 | [0205-isomorphic-strings](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0383-ransom-note) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0091-decode-ways) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0396-rotate-function](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0396-rotate-function) |
 | [0435-non-overlapping-intervals](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0435-non-overlapping-intervals) |
