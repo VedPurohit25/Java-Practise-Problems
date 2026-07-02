@@ -404,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0113-path-sum-ii) |
 | [0130-surrounded-regions](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0144-binary-tree-preorder-traversal) |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -629,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0095-unique-binary-search-trees-ii) |
+| [0113-path-sum-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0113-path-sum-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
