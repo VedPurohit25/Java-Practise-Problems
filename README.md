@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0148-sort-list) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0383-ransom-note) |
