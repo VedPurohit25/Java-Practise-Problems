@@ -476,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [1306-jump-game-iii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1306-jump-game-iii) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Binary Tree
 |  |
 | ------- |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0399-evaluate-division) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1306-jump-game-iii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1306-jump-game-iii) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -562,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0399-evaluate-division) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
 |  |
@@ -570,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0399-evaluate-division) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/3620-network-recovery-pathways) |
 ## Dynamic Programming
