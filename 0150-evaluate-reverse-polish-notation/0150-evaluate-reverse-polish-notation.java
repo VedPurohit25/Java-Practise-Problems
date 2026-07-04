@@ -1,29 +1,40 @@
+import java.util.Stack;
+
 class Solution {
     public int evalRPN(String[] tokens) {
         Stack<Integer> stack = new Stack<>();
-
-        for (String s : tokens) {
-            if (isOperator(s)) {
-                // Pop operands in reverse order
-                int b = stack.pop();
-                int a = stack.pop();
+        
+        for (String token : tokens) {
+            if (isOperator(token)) {
+                // The order of popping matters for subtraction and division
+                int b = stack.pop(); 
+                int a = stack.pop(); 
                 
-                switch (s) {
-                    case "+": stack.push(a + b); break;
-                    case "-": stack.push(a - b); break;
-                    case "*": stack.push(a * b); break;
-                    case "/": stack.push(a / b); break;
+                switch (token) {
+                    case "+":
+                        stack.push(a + b);
+                        break;
+                    case "-":
+                        stack.push(a - b);
+                        break;
+                    case "*":
+                        stack.push(a * b);
+                        break;
+                    case "/":
+                        stack.push(a / b); // Java integer division truncates toward zero automatically
+                        break;
                 }
             } else {
-                // It's a number, push it
-                stack.push(Integer.parseInt(s));
+                // Token is an integer
+                stack.push(Integer.parseInt(token));
             }
         }
-
+        
+        // The final remaining element in the stack is the answer
         return stack.pop();
     }
-
-    private boolean isOperator(String s) {
-        return s.equals("+") || s.equals("-") || s.equals("*") || s.equals("/");
+    
+    private boolean isOperator(String token) {
+        return token.equals("+") || token.equals("-") || token.equals("*") || token.equals("/");
     }
 }
