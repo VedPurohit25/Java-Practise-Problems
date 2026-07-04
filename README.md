@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0242-valid-anagram) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0096-unique-binary-search-trees) |
+| [0149-max-points-on-a-line](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0396-rotate-function](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0788-rotated-digits) |
@@ -750,4 +753,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0146-lru-cache) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
