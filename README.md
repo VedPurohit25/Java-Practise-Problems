@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0140-word-break-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0205-isomorphic-strings) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0140-word-break-ii) |
 | [0205-isomorphic-strings](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0383-ransom-note) |
@@ -616,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0140-word-break-ii) |
 | [0396-rotate-function](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0396-rotate-function) |
 | [0435-non-overlapping-intervals](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0788-rotated-digits](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0788-rotated-digits) |
@@ -684,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0140-word-break-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -706,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0140-word-break-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -731,4 +737,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
