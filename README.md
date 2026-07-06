@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0171-excel-sheet-column-number) |
+| [0172-factorial-trailing-zeroes](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0396-rotate-function](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0788-rotated-digits) |
 | [2427-number-of-common-factors](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/2427-number-of-common-factors) |
