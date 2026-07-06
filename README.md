@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0164-maximum-gap) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0209-minimum-size-subarray-sum) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0165-compare-version-numbers) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0295-find-median-from-data-stream](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0977-squares-of-a-sorted-array](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1861-rotating-the-box](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1861-rotating-the-box) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0704-binary-search) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
