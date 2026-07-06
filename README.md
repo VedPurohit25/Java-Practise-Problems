@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1051-height-checker](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1122-relative-sort-array) |
+| [1288-remove-covered-intervals](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1306-jump-game-iii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1122-relative-sort-array) |
+| [1288-remove-covered-intervals](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 ## Binary Search
