@@ -1,23 +1,19 @@
 public class Solution {
     public String convertToTitle(int columnNumber) {
-        StringBuilder result = new StringBuilder();
+        // Max characters for 2^31 - 1 in base 26 is 7
+        char[] buffer = new char[7];
+        int index = 7; // Start at the end of the array
         
         while (columnNumber > 0) {
-            // Shift to 0-indexed system
-            columnNumber--; 
+            columnNumber--; // Shift to 0-indexed system
             
-            // Get the remainder which maps to a character
-            int remainder = columnNumber % 26;
-            char ch = (char) ('A' + remainder);
+            // Fill the array backwards
+            buffer[--index] = (char) ('A' + (columnNumber % 26));
             
-            // Append character (it builds from right-to-left)
-            result.append(ch);
-            
-            // Move to the next place value
             columnNumber /= 26;
         }
         
-        // Since we built the string from right to left, reverse it at the end
-        return result.reverse().toString();
+        // Construct the string directly from the populated slice of the array
+        return new String(buffer, index, 7 - index);
     }
 }
