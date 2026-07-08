@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0169-majority-element) |
+| [0174-dungeon-game](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0215-kth-largest-element-in-an-array) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0130-surrounded-regions) |
+| [0174-dungeon-game](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0200-number-of-islands) |
 | [1301-number-of-paths-with-max-score](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1861-rotating-the-box](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1861-rotating-the-box) |
@@ -668,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0152-maximum-product-subarray) |
+| [0174-dungeon-game](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0174-dungeon-game) |
 | [0396-rotate-function](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0396-rotate-function) |
 | [0435-non-overlapping-intervals](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0788-rotated-digits](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0788-rotated-digits) |
