@@ -408,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
@@ -783,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0191-number-of-1-bits) |
 ## Monotonic Stack
 |  |
 | ------- |
