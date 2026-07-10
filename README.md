@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0212-word-search-ii) |
+| [0213-house-robber-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0347-top-k-frequent-elements) |
@@ -701,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0174-dungeon-game) |
+| [0213-house-robber-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0213-house-robber-ii) |
 | [0396-rotate-function](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0396-rotate-function) |
 | [0435-non-overlapping-intervals](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0788-rotated-digits](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0788-rotated-digits) |
