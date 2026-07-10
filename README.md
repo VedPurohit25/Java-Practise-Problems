@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0347-top-k-frequent-elements) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0387-first-unique-character-in-a-string) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0212-word-search-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1861-rotating-the-box](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1914-cyclically-rotating-a-grid) |
@@ -775,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0212-word-search-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -798,6 +802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0212-word-search-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
