@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0212-word-search-ii) |
+| [0214-shortest-palindrome](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0387-first-unique-character-in-a-string) |
@@ -771,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0214-shortest-palindrome) |
 | [0796-rotate-string](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0796-rotate-string) |
 ## Trie
 |  |
@@ -862,4 +864,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0185-department-top-three-salaries) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
