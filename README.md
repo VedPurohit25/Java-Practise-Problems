@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/3620-network-recovery-pathways) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3660-jump-game-ix](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/3660-jump-game-ix) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0977-squares-of-a-sorted-array](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1861-rotating-the-box](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1861-rotating-the-box) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/3620-network-recovery-pathways) |
 ## Linked List
 |  |
@@ -642,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/3620-network-recovery-pathways) |
 ## Dynamic Programming
 |  |
@@ -685,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0788-rotated-digits) |
 | [1301-number-of-paths-with-max-score](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/3620-network-recovery-pathways) |
 | [3660-jump-game-ix](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/3660-jump-game-ix) |
 ## Greedy
@@ -701,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0435-non-overlapping-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Topological Sort
 |  |
 | ------- |
@@ -785,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0191-number-of-1-bits) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
