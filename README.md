@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1051-height-checker](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1122-relative-sort-array) |
+| [1260-shift-2d-grid](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1306-jump-game-iii) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0212-word-search-ii) |
+| [1260-shift-2d-grid](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1861-rotating-the-box](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1914-cyclically-rotating-a-grid) |
@@ -801,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0068-text-justification) |
+| [1260-shift-2d-grid](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1260-shift-2d-grid) |
 | [1914-cyclically-rotating-a-grid](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1914-cyclically-rotating-a-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String Matching
