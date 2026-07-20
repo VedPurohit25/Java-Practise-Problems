@@ -1,23 +1,23 @@
-class Solution {
+public class Solution {
     public int findGCD(int[] nums) {
-        int min = Integer.MAX_VALUE;
-        int max = Integer.MIN_VALUE;
+        int min = nums[0];
+        int max = nums[0];
         
-        // Single linear pass to extract the extremes
-        for (int num : nums) {
-            if (num < min) {
-                min = num;
+        // Single pass to find the minimum and maximum elements
+        for (int i = 1; i < nums.length; i++) {
+            if (nums[i] < min) {
+                min = nums[i];
             }
-            if (num > max) {
-                max = num;
+            if (nums[i] > max) {
+                max = nums[i];
             }
         }
         
-        // Compute and return the greatest common divisor
-        return gcd(min, max);
+        // Compute GCD of the min and max found
+        return gcd(max, min);
     }
     
-    // High-performance iterative Euclidean Algorithm
+    // Helper method using the Euclidean Algorithm
     private int gcd(int a, int b) {
         while (b != 0) {
             int temp = b;
