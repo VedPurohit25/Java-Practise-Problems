@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0399-evaluate-division) |
 | [0435-non-overlapping-intervals](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0704-binary-search) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0206-reverse-linked-list) |
+| [0486-predict-the-winner](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0486-predict-the-winner) |
 ## Hash Table
 |  |
 | ------- |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0204-count-primes) |
 | [0396-rotate-function](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0788-rotated-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -763,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0213-house-robber-ii) |
 | [0396-rotate-function](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0396-rotate-function) |
 | [0435-non-overlapping-intervals](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0788-rotated-digits) |
 | [1301-number-of-paths-with-max-score](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
@@ -953,4 +957,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
