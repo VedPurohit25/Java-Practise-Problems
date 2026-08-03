@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1331-rank-transform-of-an-array) |
+| [1406-stone-game-iii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1861-rotating-the-box](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1861-rotating-the-box) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/2427-number-of-common-factors) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -772,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1301-number-of-paths-with-max-score) |
+| [1406-stone-game-iii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1406-stone-game-iii) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -965,4 +968,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
