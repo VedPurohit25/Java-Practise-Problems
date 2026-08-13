@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1914-cyclically-rotating-a-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -986,6 +988,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Game Theory
 |  |
@@ -1015,4 +1018,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1510-stone-game-iv) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
