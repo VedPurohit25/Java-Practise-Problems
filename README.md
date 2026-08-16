@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1914-cyclically-rotating-a-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [2029-stone-game-ix](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/2029-stone-game-ix) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/3312-sorted-gcd-pair-queries) |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/2029-stone-game-ix) |
 | [2427-number-of-common-factors](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/2427-number-of-common-factors) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/3312-sorted-gcd-pair-queries) |
@@ -819,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/0435-non-overlapping-intervals) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2029-stone-game-ix](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/2029-stone-game-ix) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -1001,22 +1005,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/VedPurohit25/Java-Practise-Problems/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
